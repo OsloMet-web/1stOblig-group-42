@@ -1,8 +1,10 @@
 <!DOCTYPE html>
-<head> 
-    <title> Webpage B </title>
+<head>
     <meta charset="utf-8">
-    </head>
-
-    <h1>Student Names </h1>
-<p>Mikael Sommervold</p>
+    <title>Webpage B</title>
+</head>
+<body>
+    <h1>Students in the group</h1>
+    <p> Mikael Sommervold</p>
+    </body>
+</html>
